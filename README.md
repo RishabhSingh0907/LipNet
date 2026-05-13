@@ -1,5 +1,6 @@
 <h1>LipNet: Efficient and Inclusive Communication with Lipreading Technology</h1>
 <br> 
+
 <h3>Overview</h3>
 The LipNet model is designed to address the need for efficient and inclusive communication across various domains. By leveraging advanced deep learning techniques, LipNet aims to decode spoken language from visual cues, particularly focusing on lip movements and facial expressions.
 
